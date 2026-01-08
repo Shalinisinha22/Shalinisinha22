@@ -10,7 +10,6 @@
 
 
 
-- 🌱 I’m currently learning **React Native**
 
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-9466d.web.app/](https://my-portfolio-9466d.web.app/)
