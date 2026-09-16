@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-nu-24.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shalinisinha.vercel.app)
 
 - 📫 How to reach me **shalinisinha.cspatna@gmail.com**
 
